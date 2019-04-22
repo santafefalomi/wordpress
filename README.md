@@ -14,7 +14,7 @@ Após anos de desenvolvimento e testes nesta plataforma, chegamos a um consenso 
 
 Segue a lista de plugins usados e testados por nossa agência:
 
-### Cconteúdo dinâmico inserido pelo cliente
+### Conteúdo dinâmico inserido pelo cliente
 
 - [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
 
