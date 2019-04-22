@@ -8,7 +8,7 @@ Usamos o [stanleywp](http://santafepublicidade.com.br/clientes/santafe/stanleywp
 
 Não restringimos o uso de outro template base, ficando a critério do desenvolvedor qual template será usado.
 
-## Padrões de plugins
+## Padrão de plugins
 
 Após anos de desenvolvimento e testes nesta plataforma, chegamos a um consenso de plugins que podem ser usados para modificações e melhorias no site. 
 
